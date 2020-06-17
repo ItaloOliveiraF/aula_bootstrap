@@ -1,0 +1,35 @@
+
+.navbar {
+    background-color: #4d79ff;
+}
+
+.quem-somos {
+    background-color: #00ff99;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.quem-somos img{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.parceiros {
+    background-color: #01da83;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+
+
+.servicos {
+    background-color: #00c073;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
